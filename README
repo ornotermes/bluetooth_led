@@ -1,0 +1,5 @@
+A simple example of controlling a LED from python on a computer via bluetooth.
+
+Python libs you need:
+ - python-bluez
+ - python-gtk2
